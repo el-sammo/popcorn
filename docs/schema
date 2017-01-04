@@ -1,0 +1,42 @@
+Candy
+	Flavors
+		Banana Cream
+		Blazin' Blackberry
+		Blue Coconut
+		Bubblicious
+		Crazy Cornfetti
+		Creamy Cheesecake
+		Gonzo Grape
+		Green Applicious
+		Old Fashioned Vanilla
+		Orange Crush
+		Pink Cotton Candy
+		Red Hot Cinnamon
+		Rockin' Raspberry
+		Strawberry Patch
+		Very Cherry
+		Wacky Watermelon
+		Wild Blueberry
+
+	Sizes
+		Mini
+			Price
+				2.75
+		Junior
+			Price
+				5.25
+		Small
+			Price
+				7.95
+		Medium
+			Price
+				18.95
+		Large
+			Price
+				25.95
+
+Caramel
+Cheese
+Chocolate
+Nut
+Original

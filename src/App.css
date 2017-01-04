@@ -14,11 +14,6 @@
 .App-diag-msg {
 	top: 0;
 	right: 0;
-	-webkit-transform: rotate(45deg);
-	-moz-transform: rotate(45deg);
-	-ms-transform: rotate(45deg);
-	-o-transform: rotate(45deg);
-	transform: rotate(45deg);
 	position: absolute;
 }
 
@@ -28,6 +23,14 @@ html {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
+}
+
+.no-deco {
+	text-decoration: none;
+}
+
+.offset15 {
+	top: 15px;
 }
 
 .showBorders {
