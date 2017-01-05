@@ -1,4 +1,18 @@
 Candy
+	Months
+		Jan
+		Feb
+		Mar
+		Apr
+		May
+		Jun
+		Jul
+		Aug
+		Sep
+		Oct
+		Nov
+		Dec
+
 	Flavors
 		Banana Cream
 		Blazin' Blackberry
@@ -36,7 +50,221 @@ Candy
 				25.95
 
 Caramel
+	Months
+		Jan
+		Feb
+		Mar
+		Apr
+		May
+		Jun
+		Jul
+		Aug
+		Sep
+		Oct
+		Nov
+		Dec
+
+	Flavors
+		Caramel
+		Chicago (Cheese & Caramel)
+		Denver (White Cheddar & Caramel)
+		Lite Caramel
+		Sea Salt & Caramel
+		Vegas (Butter, Cheese & Caramel)
+
+	Sizes
+		Mini
+			Price
+				2.75
+		Junior
+			Price
+				5.25
+		Small
+			Price
+				7.95
+		Medium
+			Price
+				18.95
+		Large
+			Price
+				25.95
+
 Cheese
+	Months
+		Jan
+		Feb
+		Mar
+		Apr
+		May
+		Jun
+		Jul
+		Aug
+		Sep
+		Oct
+		Nov
+		Dec
+
+	Flavors
+		Cheese
+		Cinnamon Toast
+		Dill Pickle
+		Jalapeno Ranch
+		Kettle Corn
+		Lite Cheese
+		Loaded Baked Potato
+		Mac & Cheese
+		Movie Kettle
+		Movie Theater Butter
+		Nacho Cheese
+		Parmesan & Garlic
+		Pizza
+		Ranch
+		Salt & Vinegar
+		Sour Cream & Chives
+		Southwest Hot Wings
+		Southwest Jalapeno
+		Spicy & Hot Cheese
+		White Cheddar
+
+	Sizes
+		Mini
+			Price
+				2.25
+		Junior
+			Price
+				4.50
+		Small
+			Price
+				5.50
+		Medium
+			Price
+				14.95
+		Large
+			Price
+				19.95
+
 Chocolate
+	Months
+		Jan
+		Feb
+		Mar
+		Apr
+		May
+		Jun
+		Jul
+		Aug
+		Sep
+		Oct
+		Nov
+		Dec
+
+	Flavors
+		Banana Pudding
+		Birthday Cake
+		Butterfinger
+		Chocolate
+		Cinnabun
+		Dark Chocolate
+		Heath Toffee Almond
+		Lemon Meringue Pie
+		Oreo
+		Peanut Butter Chocolate
+		Rebecca's Crunch (Mix of Chocolate and Caramel with Nuts)
+		Puppy Chow
+		S'mores
+		Strawberry Cheesecake
+		Tuxedo
+		White Chocolate
+		White Chocolate Peppermint
+		White Chocolate Pretzel
+
+	Sizes
+		Mini
+			Price
+				5.95
+		Junior
+			Price
+				11.50
+		Small
+			Price
+				16.95
+		Medium
+			Price
+				44.95
+		Large
+			Price
+				75.95
+		
+
 Nut
+	Months
+		Jan
+		Feb
+		Mar
+		Apr
+		May
+		Jun
+		Jul
+		Aug
+		Sep
+		Oct
+		Nov
+		Dec
+
+	Flavors
+		Caramel with Nuts (Cashews, Pecans & Peanuts)
+		Toffee Almond
+
+	Sizes
+		Mini
+			Price
+				4.50
+		Junior
+			Price
+				8.50
+		Small
+			Price
+				12.95
+		Medium
+			Price
+				29.95
+		Large
+			Price
+				41.95
+		
+
 Original
+	Months
+		Jan
+		Feb
+		Mar
+		Apr
+		May
+		Jun
+		Jul
+		Aug
+		Sep
+		Oct
+		Nov
+		Dec
+	
+	Flavors
+		Buttery
+
+	Sizes
+		Mini
+			Price
+				4.50
+		Junior
+			Price
+				8.50
+		Small
+			Price
+				12.95
+		Medium
+			Price
+				29.95
+		Large
+			Price
+				41.95
+		
